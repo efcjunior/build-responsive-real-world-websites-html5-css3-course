@@ -1,0 +1,113 @@
+/*
+css is written in rules. Each rule consists of a selector and a 
+declaration block;
+
+
+css box model
+
+All HTML elements can be seen as boxes;
+
+it consists: margins, padding, borders,
+content;
+
+In HTML, there are block elements
+and inline elements
+
+block elements: use the full width of 
+the browser and force line breaks.
+examples: headings and paragraphs
+
+inline elements: 
+
+images, links, strong
+
+important: height or width
+
+*/
+
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+body {
+    font-family:Helvetica Neue, Arial;
+    font-size:18px;
+}
+
+h1, h2 {
+    color:#00960b;    
+}
+
+h1 {
+    font-size:40px;
+    margin-bottom:20px;
+}
+
+h2 {
+    font-size:25px;
+    margin-bottom:20px;
+}
+
+.main-text {
+    text-align:justify;
+    margin-bottom:20px;
+}
+
+.author-text {    
+    font-size:30px;
+    float:left;
+    margin-top:25px;
+    margin-left:10px;
+}
+
+.container {
+    width: 1140px;
+    margin:20px auto 0 auto;
+}
+
+.blog-post {
+    width: 75%;
+    float: left;
+    padding-right:30px;
+    position:relative;
+}
+
+.other-posts {
+    width: 25%;
+    float: left;
+}
+
+.other {
+    margin-bottom:40px;
+}
+
+.author-box {
+    padding-top: 20px;
+    border-top:1px solid #808080;
+}
+
+.author-box img {
+    height:100px;
+    width:100px;
+    border-radius:50%;
+    float:left;
+}
+
+.blog-post img {
+    height:150px;
+    width:auto;
+}
+
+.date {
+    position:absolute;
+    top: 0;
+    right:30px;
+}
