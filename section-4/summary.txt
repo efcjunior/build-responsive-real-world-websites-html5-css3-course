@@ -1,0 +1,61 @@
+typograph guidelines
+body font-size between 15 and 25;
+headlines 60px, 32px,90px
+line spacing 120 and 150%
+45 to 90 to chatacters per line
+use good fonts (google web fonts)
+
+sans-serif or serif typeface
+use only that one typeface
+
+colors
+
+use only one base color
+create a palete color
+use a too if you ant to use more colors
+use color to draw attention
+never use black in your design
+choose colors wisely
+
+color feelings
+red - power, fashion, energic
+orange - attetion, creative, friendless
+yeallow - haapy, curiosity, 
+green - nature, life, healthy, mony, 
+blue - attention, trust owner,
+purple - power, ability, royalty
+pink - care
+brown - confidence, nature, confort reability
+
+working with images
+put text directly on the image -> overlay the image
+put your text in a box
+blur the image
+the floor fade
+
+icons
+
+use icons to list features / steps
+use icons for actions and links
+icons should not take a center stage
+use icon fonts whenever possible (vector instead of static)
+
+layout and spacing
+
+use whitespace - put it bweten elements, groups of element, websit´s sections
+
+define hierarchy - whitespace describes invisible realtionships between the elements of your website
+
+define where you want your audience to look first
+establish a flow that correspond to your content´s message
+use whitespace to build that flow
+
+inspiration
+collect design that you like
+try to understand everything about them
+why do they good look
+what do these sites hava in common
+how were they build in html and css
+
+
+
