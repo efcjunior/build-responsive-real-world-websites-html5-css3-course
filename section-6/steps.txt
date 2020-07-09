@@ -1,0 +1,40 @@
+# website process development
+
+1-
+define de the goal of your project
+define your audience
+design with your goal and audience in mind
+
+
+2 plan out everything
+
+plan your content: text, images, videos, icons
+start thinking about visual hieararchy
+define the navigation
+detine the site structure if tis a bigger project
+
+3 sketch your ideas before you design
+
+get inspired and think about your design
+get the ideas out of your head: sketch your ideas before your start designing
+make as many sketches as you want, but don´t make it perferct
+never start designing without having an idea of what you want to build
+
+4 design and develop your website
+
+design your website using guidelines and tips you´ve learned in the webdesign section
+do that using html and css designing in the browser
+use sketches, content and planning decisions you´ve made in steps 1,2 and 3.
+this step is the biggest part of building a website, but: all steps area important
+
+5 it´s not done yet: optimization
+optmize performance: site speed
+search engine optmisation (seo)
+
+6 lauch the masterpiece
+all you need for launching is a webserver that will host your website and deliver it to the world
+
+7 site maintenance
+launching is not the end of the story
+monitor your users behavior and change your website if necessary
+update your content regularly: blog
